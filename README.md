@@ -22,8 +22,8 @@ React, Vite, Redux Toolkit, and Material UI were used to create this trendy admi
 
 ```sh
 # Clone this repository
-git clone <repository-url>
-cd <repository-folder>
+git clone [<repository-url>](https://github.com/nimisha-badiyani/React-Admin-Panel-with-Material-UI-Redux.git)
+cd React-Admin-Panel-with-Material-UI-Redux
 
 # Switch to the required Node version
 nvm use 20.18.0
