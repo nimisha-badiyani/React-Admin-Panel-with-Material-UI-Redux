@@ -1,0 +1,63 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #4880FF;
+  --border-radius: 8px;
+  --text-color: #202224;
+}
+
+
+.primary-color {
+  color: var(--primary-color) !important;
+}
+
+.primary-text-color {
+  color: var(--text-color);
+}
+
+
+
+.color-white {
+  color: #ffffff !important;
+}
+
+.primary-bg-color {
+  background-color: var(--primary-color) !important;
+}
+
+.br-8 {
+  border-radius: var(--border-radius);
+}
+
+.fs-18 {
+  font-size: 18px !important;
+}
+
+.fs-16 {
+  font-size: 16px !important;
+}
+
+
+.fs-14 {
+  font-size: 14px !important;
+}
+
+.fs-12 {
+  font-size: 12px !important;
+}
+
+.fs-32 {
+  font-size: 32px !important;
+}
+
+.fs-24 {
+  font-size: 24px !important;
+}
+
+.fs-20 {
+  font-size: 20px !important;
+}

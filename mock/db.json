@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "008b",
+      "name": "nimisha",
+      "email": "nimibadiyani@gmail.com",
+      "password": "Test@123"
+    }
+  ],
+  "projects": [
+    {
+      "id": "5e24",
+      "customerName": "Richard Johnson",
+      "referenceNumber": "920929",
+      "projectName": "Sphere",
+      "projectNumber": "222",
+      "areaLocation": "Australia",
+      "address": "Australia",
+      "dueDate": "2025-03-30",
+      "contact": "8888888888",
+      "manager": "Axay",
+      "staff": "2",
+      "status": "active",
+      "email": "staff@yopmail.com",
+      "userId": "008b"
+    }
+  ],
+  "estimation": [
+    {
+      "id": "1a87",
+      "sections": [
+        {
+          "title": "Designing",
+          "isEditing": false,
+          "items": [
+            {
+              "title": "UIUX Designing",
+              "description": "Landing Page Design",
+              "unit": "1",
+              "quantity": "1",
+              "price": "30",
+              "margin": "2"
+            },
+            {
+              "title": "Logo Designing",
+              "description": "Logo Designing",
+              "unit": "1",
+              "quantity": "2",
+              "price": "30",
+              "margin": "2"
+            }
+          ]
+        }
+      ],
+      "userId": "008b",
+      "projectId": {
+        "id": "5e24",
+        "customerName": "Richard Johnson",
+        "referenceNumber": "920929",
+        "projectName": "Sphere",
+        "projectNumber": "222",
+        "areaLocation": "Australia",
+        "address": "Australia",
+        "dueDate": "2025-03-30",
+        "contact": "8888888888",
+        "manager": "Axay",
+        "staff": "2",
+        "status": "active",
+        "email": "staff@yopmail.com",
+        "userId": "008b"
+      },
+      "version": "v1",
+      "clientName": "Richard Johnson1",
+      "status": "pending",
+      "total": 91.80000000000001
+    }
+  ]
+}
